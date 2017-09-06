@@ -1,3 +1,9 @@
+/**********
+ * author: mingsanwang
+ * date: 09/06/2017
+ * description: BPE algorithm by C++.
+ ***********/
+
 #include <stdio.h>
 #include <string.h>
 #include <vector>
